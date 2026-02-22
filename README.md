@@ -29,7 +29,7 @@ AI-powered phishing kits make these emails **harder for tools to detect** and **
 
 ---
 
-## Spot a Phish
+## Spot a Phish Logic
 
 Accuracy ratings: 🟢 Accurate | 🟡 Mostly Accurate | ⚪ Partially Accurate
 
