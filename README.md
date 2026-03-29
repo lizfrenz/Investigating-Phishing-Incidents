@@ -208,7 +208,7 @@ Accuracy ratings: 🟢 Accurate | 🟡 Mostly Accurate | ⚪ Partially Accurate
 ---
 
 
-# Pre-emptive Work *(TBC)*
+# Pre-emptive Work
 
 - Block disposable mail services
 - Block junk TLDs — see [Palo Alto Unit42 research](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
