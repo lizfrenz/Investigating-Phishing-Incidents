@@ -109,7 +109,7 @@ Accuracy ratings: 🟢 Accurate | 🟡 Mostly Accurate | ⚪ Partially Accurate
 ### Content Decoding
 
 - [CyberChef](https://gchq.github.io/CyberChef/)
-- Python Script *(TBC)*
+- [Custom Python Script](decoder_v2.py)
 
 ---
 
